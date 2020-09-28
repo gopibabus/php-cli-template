@@ -1,5 +1,5 @@
 {
-    "name": "gopibabusrungavarapu/php-cli",
+    "name": "gopibabus/php-cli",
     "description": "Basic CLI application",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,7 @@
             "email": "s.gopibabu@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "App\\": "app/"
