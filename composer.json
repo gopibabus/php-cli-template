@@ -1,0 +1,21 @@
+{
+    "name": "gopibabusrungavarapu/php-cli",
+    "description": "Basic CLI application",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gopibabu Srungavarapu",
+            "email": "s.gopibabu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "bin": [
+        "bin/main"
+    ]
+}
